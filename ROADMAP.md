@@ -1,7 +1,7 @@
 # Roadmap — Gemma 4 Developer Agent
 
-## P0 — Gates (do immediately)
-- [ ] Accept competition rules by **Nov 25, 2026** (entry gate — no submission without it)
+## P0 — Gates
+- [x] Accept competition rules — **DONE 2026-11-02** (Kaggle account: ehsan4u@gmail.com)
 - [ ] Decide on paper track by **Nov 12, 2026** ($35K)
 
 ## P1 — Setup & Exploration (Nov 3 – Nov 9)
